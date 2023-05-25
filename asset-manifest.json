@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CryptoTrendz/static/css/main.e0cfc1b7.css",
+    "main.js": "/CryptoTrendz/static/js/main.ba6b628f.js",
+    "static/js/787.e1366ecd.chunk.js": "/CryptoTrendz/static/js/787.e1366ecd.chunk.js",
+    "static/media/logo-cryptoTrendz.png": "/CryptoTrendz/static/media/logo-cryptoTrendz.d6f1f3267d079991fe42.png",
+    "index.html": "/CryptoTrendz/index.html",
+    "main.e0cfc1b7.css.map": "/CryptoTrendz/static/css/main.e0cfc1b7.css.map",
+    "main.ba6b628f.js.map": "/CryptoTrendz/static/js/main.ba6b628f.js.map",
+    "787.e1366ecd.chunk.js.map": "/CryptoTrendz/static/js/787.e1366ecd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0cfc1b7.css",
+    "static/js/main.ba6b628f.js"
+  ]
+}
