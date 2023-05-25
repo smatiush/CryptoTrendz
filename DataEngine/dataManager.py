@@ -168,7 +168,7 @@ if '__main__' == __name__:
     # _______________PRODUCTION CODE____________________
     # **********REMOVE COMMENT ONLY BEFORE FLIGHT*******
 
-    funding_time = [00,8,16]
+    '''    funding_time = [00,8,16]
     c = pollerManager()
     while True:
         timeNow = datetime.datetime.now(tz=pytz.UTC)
@@ -180,4 +180,4 @@ if '__main__' == __name__:
             time.sleep(1)
         time.sleep(1)
 
-
+'''

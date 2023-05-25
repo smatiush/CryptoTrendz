@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  background-color: black;
+}
+
+.App-logo{
+  max-height: 40vh;
+}
+
+.text-logo {
+  flex-direction: column;
+  justify-content: center;
+  max-width: 60%;
+}
+
+.App-header {
+  background-color: #000000;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  vertical-align: top;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.div-fundingRank{
+  background-color: #000000;
+  justify-content: center;
+  color: white;
+  min-height: 100vh;
+}
+
+.warning {
+  color: red;
+}
+
+.info-section {
+  background-color: black;
+  color: white;
+}
+
